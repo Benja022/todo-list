@@ -8,3 +8,17 @@ These instuctions will give you a copy of the prohect up and running on your loc
 Requeriments for the sofware and other tools to build , test and push.
  - Example 1
  - Example 2
+
+ ### Installing
+ A step by step series of examples that tell how to get a development environment running
+ 
+ Say what the step will be
+
+|Give the example|
+|- |
+
+And repeat
+
+|Until finished|
+|-|
+End with an example of gettin some data out the system or using it for a little demo
