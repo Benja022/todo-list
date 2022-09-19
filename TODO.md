@@ -11,4 +11,4 @@ This is the checklist to make a good readme:
     - [x] Deployment
     - [x] Built With
     - [X] Authors
-    - [ ] License
+    - [x] License 
