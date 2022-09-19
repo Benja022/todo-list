@@ -22,3 +22,14 @@ And repeat
 |Until finished|
 |-|
 End with an example of gettin some data out the system or using it for a little demo
+
+###Deployment
+
+Add additional notes to deploy this a live system
+
+###Built With 
+
+    ·Contribuitor Covenant - Used for the Code of C onduct 
+    
+    ·Creative Commons -Used to vhoose the license 
+    
