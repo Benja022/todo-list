@@ -46,3 +46,9 @@ See also the list of
 [Contributors](https://github.com/Benja022/todo-list/blob/main)
 who participated in this project.
     
+
+### License
+
+This project is licensed under the **CCo1.0 Universal**
+
+Creative Commons License -see the **LICENSE md** file for details
